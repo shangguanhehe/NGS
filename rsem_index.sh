@@ -1,0 +1,1 @@
+rsem-prepare-reference --bowtie2 --gtf IWGSC_v1.1_HC_20170706.gtf 161010_Chinese_Spring_v1.0_pseudomolecules.fasta /share/database/IWGSC_V1.1_index/IWGSC_v1.1_HC_transcript

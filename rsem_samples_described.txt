@@ -1,0 +1,9 @@
+cond_A rsem_T01
+cond_A rsem_T02
+cond_A rsem_T03
+cond_B rsem_T04
+cond_B rsem_T05
+cond_B rsem_T06
+cond_C rsem_T07
+cond_C rsem_T08
+cond_C rsem_T09
